@@ -1,2 +1,2 @@
 # whatIGet
-Stil a rookie.
+Still a rookie.
